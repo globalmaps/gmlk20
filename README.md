@@ -9,7 +9,7 @@ Credit: "Global Map of Sri Lanka ©ISCGM/ Survey Department, Sri Lanka"
 
 Contact: Survey Department.
 
-E-mail: ![email](https://www.iscgm.org/gmd/images/email/sri_lanka.png)
+E-mail: ![email](email.png)
  
 Phone number: +94-112587957
 
